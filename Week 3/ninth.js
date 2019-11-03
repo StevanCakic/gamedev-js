@@ -23,10 +23,10 @@ function drawRectangle(myRectangle, context) {
 function animate(myRectangle, canvas, context, startTime ) {
     // update
     var time = (new Date()).getTime() - startTime;
-    var amplitude = 200;
+    var amplitude = 300;
 
     // in ms
-    var period = 1000;
+    var period = 2000;
     var centerX = canvas.width / 2 - myRectangle.width / 2;
     var nextX = amplitude * Math.sin(time * 2 * Math.PI / period) + centerX;
     myRectangle.x = nextX;
