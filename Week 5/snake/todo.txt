@@ -1,0 +1,12 @@
+1. create canvas
+2. load resources
+3. Units
+4. draw ground
+5. draw snake (initial)
+6. draw food(initial)
+7. control the snake
+8. how snake moves (pop() tail and unshift head with(x,y))
+9. when snake eats food (when eat food tail is not removed and head is unshift!)
+10. collision detection with snake it self
+11. collision with the wall
+12. Score update
