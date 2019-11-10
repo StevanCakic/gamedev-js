@@ -24,3 +24,8 @@ This course is organized for high-school students as a part of EU Code Week 2019
 
 # Week 4
 - Block-breaker game
+
+# Week 5
+- Group exercises
+    - Snake
+    - Ping pong
